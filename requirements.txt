@@ -1,6 +1,5 @@
 pandas
 voila
-os
 zipfile
 display
 widgets
