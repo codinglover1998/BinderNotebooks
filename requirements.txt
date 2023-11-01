@@ -1,5 +1,2 @@
 pandas
 voila
-zipfile
-display
-widgets
